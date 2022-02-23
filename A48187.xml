@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a member of Parliament concerning the four regiments commonly called Mariners</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48187</idno>
+            <idno type="STC">Wing L1670</idno>
+            <idno type="STC">ESTC R11017</idno>
+            <idno type="EEBO-CITATION">12387051</idno>
+            <idno type="OCLC">ocm 12387051</idno>
+            <idno type="VID">60866</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48187)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60866)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 766:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a member of Parliament concerning the four regiments commonly called Mariners</title>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. 14.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Royal Navy.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60866:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 59 -->
+            <p>A LETTER TO A Member of Parliament CONCERNING The four Regiments commonly called MARINERS.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A. Baldwin</hi> in <hi>Warwicklane,</hi> 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:60866:2"/>
+            <!-- PDF PAGE 60 -->
+            <pb n="3" facs="tcp:60866:2"/>
+            <!-- PDF PAGE 60 -->
+            <head>A LETTER TO A Member of Parliament CONCERNING The four Regiments commonly called MARINERS.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN my laſt I undertook to ſhew that the Eſtabliſhment of the four Marine Regiments is an uſeleſs Charge to the People, a Nuſance to the Navy, and dan<g ref="char:EOLhyphen"/>gerous to the Kingdom's Liberties.</p>
+            <p>And in order to it I ſhall premiſe four things.</p>
+            <p>The Firſt I have already proved, That ſeven thouſand Men are more than ſufficient for Guards and Gariſons, and conſequently theſe Mariners are not neceſſary for
+<pb n="4" facs="tcp:60866:3"/>
+               <!-- PDF PAGE 61 -->Land-ſervice, nor can they be uſed to that purpoſe, the laſt Parliament having appropriated them to the ſervice of the Navy only.</p>
+            <p>The Second is, That every Country will breed as ma<g ref="char:EOLhyphen"/>ny Seamen as their Trade and the ordinary occaſions of their Navy in times of Peace will give conſtant Imploy<g ref="char:EOLhyphen"/>ment to: for as Sir <hi>William Petty</hi> obſerves, The Wages of a Seaman is equivalent to that of three common La<g ref="char:EOLhyphen"/>bourers; and therefore if our Acts of Navigation were duly obſerved, Men will naturally fall into the moſt be<g ref="char:EOLhyphen"/>neficial Imployment, till it becomes overſtockt, and ſome of them for want of ſubſiſtence, are forced to ſeek out other Livelihoods, which is true not only in this but all other Trades.</p>
+            <p>The Third is, That if by a War or any other Accident, more Seamen are bred in a Country than their Ships of War, and the bulk of their Trade will conſtantly imploy, the Supernumeraries muſt go to other Trades, find out new Countries, beg, ſteal or ſtarve, which I take to be the caſe at preſent of <hi>England:</hi> for during the War we maintained between forty and fifty thouſand Men in the Royal Navy, and now we do not imploy above ten thou<g ref="char:EOLhyphen"/>ſand; ſo that near forty thouſand Men bred in the Fleet are to ſeek out their Livelihoods elſewhere, and 'tis at preſent a miſerable complaint amongſt the Seamen, that many thouſands of them want ſubſiſtence.</p>
+            <p>The Fourth is a Conſequent from the two laſt, that this Marine Eſtabliſhment is no Nurſery for Seamen, but ra<g ref="char:EOLhyphen"/>ther the contrary: I do not ſay that in no Circumſtance it may be ſo; for perhaps in a War where the occaſions for Seamen are very great, or in a Country initiating themſelves in Sea Affairs, ſuch Regiments may be of uſe to bring Land-men to Sea, for bad Seamen are better
+<pb n="5" facs="tcp:60866:3"/>
+               <!-- PDF PAGE 61 -->than none at all; but in a Country thorowly verſed in Sea Affairs, where there are more Seamen than there are occaſions for them, ſuch an Eſtabliſhment is ſo far from making Seamen, that they take up the room, receive the pay, and hinder the Imployment of thoſe that are actually made.</p>
+            <p>Having premiſed theſe things, the Queſtion in my Opi<g ref="char:EOLhyphen"/>nion will be, Whether Marine Soldiers are better than an equal number of Seamen? that is, Whether ten thou<g ref="char:EOLhyphen"/>ſand Seamen, and three thouſand Mariners, will be more beneficial to the Kingdom than thirteen thouſand Sea<g ref="char:EOLhyphen"/>men?</p>
+            <p>Now I ſhall endeavour to ſhew the contrary.</p>
+            <p>Firſt, There is a natural Antipathy between Seamen and Land Soldiers, as having different Cuſtoms, Man<g ref="char:EOLhyphen"/>ners, Oeconomy and Officers; nor, as Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Petty</hi> obſerves,<note place="margin">Political Arith<g ref="char:EOLhyphen"/>metick, <hi>fol. 57.</hi>
+               </note> do the Seamen heartily rejoice at thoſe Succeſſes of which Land<g ref="char:EOLhyphen"/>men have any ſhare, thinking it hard that they who are bred to miſerable, painful and laborious Imployments (and yet profitable to the Commonwealth) ſhould at a time when Booty and Purchaſe is to be gotten, be clog<g ref="char:EOLhyphen"/>ged and hindred by any Conjunction with Landmen, or forced to admit thoſe to an equal ſhare with themſelves. The truth of this has been abundantly demonſtrated in the laſt War, when Sea and Land Soldiers were never ſent any long Voyage together, but their differences have always defeated the Enterprize they were ſent about, par<g ref="char:EOLhyphen"/>ticularly in the Squadron commanded by Sir <hi>Francis Wheeler</hi> to the <hi>Weſt-Indies,</hi> where the Reſentments were carried ſo high between the Sea and Land Officers, that
+<pb n="6" facs="tcp:60866:4"/>
+               <!-- PDF PAGE 62 -->the whole Expedition was unſucceſsful, to the loſs of many thouſand Men, and a prodigious Sum of Money.</p>
+            <p>Secondly, The Charge of Mariners is by above a third part greater than an equal number of Seamen whilſt they are uſed as ſuch; for the Marine Soldiers on board re<g ref="char:EOLhyphen"/>ceive the Wages of Sailors, and the Pay of the Officers amounts to 20933 <hi>l.</hi> beſides, which is an uſeleſs Charge to the Kingdom, the Officers very ſeldom going to Sea with their Men, and when they do, are only a hin<g ref="char:EOLhyphen"/>drance to the Seamen, and raiſe Factions in the Fleet; or if they happen to agree with the Sea Commanders, are of no uſe but to debauch with them, and hinder them from doing their Duty.</p>
+            <p>Thirdly, Their Land Methods have mightily inter<g ref="char:EOLhyphen"/>fered with the Navy Rules, and introduced pernici<g ref="char:EOLhyphen"/>ous Notions into the Fleet Officers, ſuch as Miſ-ratings, falſe Muſters, and other Abuſes, which the Sea Offi<g ref="char:EOLhyphen"/>cers formerly were ignorant of: and I have been often told by a Commiſſioner in the Navy-Office, that that Board always oppoſed them, as an Eſtabliſhment that broke all the Rules and Oeconomy of the Navy; and how fond ſoever the Lords of the Admiralty may be of them now, we may remember the time when a ſpleenatick Gentleman in that Poſt publickly ridicul'd them, calling them Water-Rats. And theſe poor Wretch<g ref="char:EOLhyphen"/>es have been worſe uſed than if they were ſo, many of them being ſtarved for want of Clothes and Suſtenance; and indeed they have always been the miſerableſt Crea<g ref="char:EOLhyphen"/>tures in the Nation.</p>
+            <p>Fourthly, inſtead of making Landmen Sailors, they have made Sailors Landmen; more Seamen having been inveigled to be Mariners, than Mariners made Sea<g ref="char:EOLhyphen"/>men: and tho the Officers have had 40 <hi>s.</hi> a man for
+<pb n="7" facs="tcp:60866:4"/>
+               <!-- PDF PAGE 62 -->Recruits, yet Men preſſed for the Fleet have been taken into the ſaid Regiments upon that account, and the Mo<g ref="char:EOLhyphen"/>ney put into their own Pockets.</p>
+            <p>Fifthly, They are a dead Charge to the Navy on ſhore, and burdenſome to the People, being quarter<g ref="char:EOLhyphen"/>ed up and down in the Inland Countries; nor could they ever be obliged to any work in the Yard, tho it has been often propoſed, and one of their Eſtabliſhments required it: and indeed, tho there have been ſeveral Eſtabliſhments made, yet none have been obſerved: and ſome People will be ſo ill-natur'd as to ſay, That nothing was deſigned by that Noble L—d who has the honour of this Invention, but to be a Colonel of one of the Regiments.</p>
+            <p>Sixthly, They are dangerous to the Kingdoms Liber<g ref="char:EOLhyphen"/>ties, as hath been abundantly proved in the ſeveral Trades wrote concerning <hi>Standing Armies;</hi> where it is demonſtrated beyond the poſſibility of a Reply, that ſmall numbers of Men may and have deſtroyed the Li<g ref="char:EOLhyphen"/>berties of potent Nations: how much more eaſily then in <hi>England,</hi> where beſides theſe Mariners, who will be called to Land when they have occaſion for them, our Kings will have 7000 Men for Guards and Gariſons, 12000 in <hi>Ireland,</hi> 5000 in <hi>Scotland,</hi> and almoſt 6000 in <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> which in all amounts to 33000 Men? A dangerous and dreadful Force, and ſuch a one as our Apoſtate <hi>Whigs</hi> (if I may uſe another man's Expreſſion) in any Reign, wherein they were not in the Miniſtry, would have thought ſufficient to have enſlaved the Nation.</p>
+            <p>Now I think it lies upon them to ſhew what great Advantages the Mariners will bring to the Kingdom more than an equal number of Seamen, which may ballance
+<pb n="8" facs="tcp:60866:5"/>
+               <!-- PDF PAGE 63 -->theſe Inconveniences, and juſtify the introducing an Eſtabliſhment into the Navy, to which the Seamen have not been accuſtomed.</p>
+            <p>I muſt confeſs, I could never hear any Reaſon, or ra<g ref="char:EOLhyphen"/>ther Pretence for it, which did not move my Laughter and Scorn; nor would I condeſcend to anſwer them ſe<g ref="char:EOLhyphen"/>riouſly, but that the Subject it ſelf is above Ridicule, tho theſe Gentlemen and their Reaſons are below it.</p>
+            <p>
+               <label>
+                  <hi>REASON</hi> I.</label>
+Marine Regiments kept in conſtant Pay will be more ready upon any Emergency or ſudden Occaſion than Sea<g ref="char:EOLhyphen"/>men, who perhaps will be then difficultly raiſed.</p>
+            <p>
+               <label>ANSWER.</label>
+I have ſuppoſed before, that in the room of theſe Ma<g ref="char:EOLhyphen"/>riners we are to employ an equal number of Sailors (which I have ſhewed will be leſs chargeable to the King<g ref="char:EOLhyphen"/>dom by above a third) then I preſume it will be grant<g ref="char:EOLhyphen"/>ed that Seamen actually on Board will be as ready as Ma<g ref="char:EOLhyphen"/>riners, whereof a great part will be always on ſhore.</p>
+            <p>
+               <label>
+                  <hi>REASON</hi> II.</label>
+That theſe Mariners do not take up the room of Sea<g ref="char:EOLhyphen"/>men, but the Men of War muſt have their full Comple<g ref="char:EOLhyphen"/>ment of Sailors, and theſe Mariners into the bargain.</p>
+            <p>I ſhall deſire to be excuſed from making any Anſwer to this Argument, till the Gentlemen of this new way of Reaſoning are pleaſed to ſhew, that their Mariners do
+<pb n="9" facs="tcp:60866:5"/>
+               <!-- PDF PAGE 63 -->not receive as much Pay, eat as much Meat, lie in as many Hammocks; in ſhort, eating, drinking, ſtand<g ref="char:EOLhyphen"/>ing, lying, or ſitting, take up as much room as if they were better Seamen. I muſt own 'tis my Opinion, they will not be contented with the Accommodation Seamen are accuſtomed to, eſpecially their Beau-Officers, who will think themſelves but ill uſed unleſs they have Cab<g ref="char:EOLhyphen"/>bins made on purpoſe for them.</p>
+            <p>
+               <label>
+                  <hi>REASON</hi> III.</label>
+Mariners are more proper to make Inſults upon the Enemies Coaſts than Seamen, who are not under ſo good a Diſcipline for Land-Service.</p>
+            <p>
+               <label>ANSWER.</label>
+Our own Experience is contrary to this; for they have been employed together but once upon Land-Service during the late War, which was at the Siege of <hi>Cork;</hi> where a few Seamen, under the Conduct of the Duke of <hi>Grafton,</hi> did gallanter Actions, and better Service, than the whole Body of the Mariners either performed at that time or ever ſince. But ſuppoſing what they ſay were true, we have no War, nor any oc<g ref="char:EOLhyphen"/>casino to make Inſults upon our Enemies Coaſts; and muſt we be at a great Charge and Hazard to keep them up till the Lord knows when, to be ſent the Lord knows where, to do the Lord knows what? Beſides, have they ever been made uſe of to that purpoſe? And what reaſon have we to believe that ſhall be done hereafter, which was never attempted in eight years War? But if this were practicable, we may at any time
+<pb n="10" facs="tcp:60866:6"/>
+               <!-- PDF PAGE 64 -->qualify Land-Soldiers for ſuch Service, by keeping them only on Board till their Sea-ſickneſs is over.</p>
+            <p>
+               <label>
+                  <hi>REASON</hi> IV.</label>
+Marine Regiments are properer than Seamen to defend the Decks of our Ships, and annoy the Enemy with Small-ſhot.</p>
+            <p>
+               <label>ANSWER.</label>
+It has been always obſerved, that Sailors have been better Markſmen than Land-Soldiers, as having through the courſe of their Lives been uſed to Arms, not only in Sea-Service, but in their Voyages, and the ſeveral Ports they come into, by exerciſing themſelves to ſhoot at Wild-fowl: But if this were not true, what hinders but it may be made a part of Sea-Diſcipline, to exerciſe them by turns on board? unleſs we think there is an intrin<g ref="char:EOLhyphen"/>ſick Virtue in the Word <hi>Mariners.</hi> And if this were im<g ref="char:EOLhyphen"/>practicable too (as I ſaid before) Land-Regiments in caſe of a new War may at any time be fitted for that pur<g ref="char:EOLhyphen"/>poſe, by only keeping them on board till they have di<g ref="char:EOLhyphen"/>geſted their Sea-Qualms.</p>
+            <p>
+               <label>
+                  <hi>REASON</hi> V.</label>
+Beſides the Service they do at Sea, they may be uſeful when they are put on ſhore, by working in the King's Yards.</p>
+            <p>
+               <label>ANSWER.</label>
+By their Eſtabliſhment I preſume the Deſign is to have a certain proportion of them at Land, the reſt at
+<pb n="11" facs="tcp:60866:6"/>
+               <!-- PDF PAGE 64 -->Sea: And ſince it is all one to the Argument what num<g ref="char:EOLhyphen"/>ber that is, we will ſuppoſe that two Thirds ſhall be al<g ref="char:EOLhyphen"/>ways at Sea, and one Third working in the Yards by turns. Now I have already ſhewed, that the two Thirds at Sea are more chargeable, and leſs uſeful, than an equal number of Seamen: and if I can ſhew that the Third at Land will be as chargeable and leſs uſeful than an equal number of Artificers, then I think I have made it ap<g ref="char:EOLhyphen"/>pear that they are neither good for Sea or Land, and con<g ref="char:EOLhyphen"/>ſequently fit only to be disbanded.</p>
+            <p>I confeſs by their Eſtabliſhment their Pay at Land is but Eight Pence a day; but I preſume if they hinder them from working any other way by employing their whole time in hard Labour, they will increaſe their Allowance, as they do when they ſend them to Sea; which by the way is always done when Soldiers are ſet at work in the Gariſons, or elſewhere. If they do this, their own Pay will be equivalent to the Hire of common Labourers, or very near it. But ſuppoſe they do not increaſe it, I have ſhewed before, that the Pay of the Officers is above a Third of the whole Pay of the Regiments, ſup<g ref="char:EOLhyphen"/>poſing every Company to be full: but if we can have ſuch unbecoming Thoughts of them (which I can never believe of ſuch honeſt Gentlemen) as that they will make falſe Muſters, then the Officers Pay, in probability, will amount to half, which being thrown in, will make their Wages much above the Rate of common Artificers: then the Queſtion will be, Whether Men that for the moſt part have been bred up in Idleneſs, picked up at <hi>Hab Nab,</hi> whether Fiſh, Fowl, Ottar, or Sea-weed, are likely to do better Service in the King's Yards than Artificers that exerciſe their own Trades, which from their Youth they have been accuſtomed to: To which I ſhall give no Anſwer.</p>
+            <p>
+               <pb n="12" facs="tcp:60866:7"/>
+               <!-- PDF PAGE 65 -->
+But what ſhall the Officers do in the Yards? Shall they work there too? or ſhall they ſtand in the way of the Workmen, and ſee the Soldiers work at a Trade that neither of them know any thing of? Indeed if this Sub<g ref="char:EOLhyphen"/>ject was leſs ſerious, theſe Gentlemen would tempt us to be very merry.</p>
+            <p>
+               <label>
+                  <hi>REASON</hi> VI.</label>
+Theſe Mariners, beſides working in the King's Yards, will defend them againſt any ſudden Inſult.</p>
+            <p>
+               <label>ANSWER.</label>
+There is no need of their Aſſiſtance; for the King's Yards, if new Methods have not been introduced into them, are under the beſt Oeconomy and Conduct in the World.</p>
+            <p>Firſt, There is a certain number of Guard-Ships (I think three) to guard every Yard.</p>
+            <p>Beſides the Guard-Ships, there is on board every Ship that is in ordinary an eſtabliſhed number of Men to do conſtant Duty there.</p>
+            <p>Every Watch, Scout-boats are ſent out to hale each reſ<g ref="char:EOLhyphen"/>pective Ship, and obſerve that the Watch is duly kept.</p>
+            <p>There is in every Yard ſuch an eſtabliſhed number of Watchmen (I think ſixteen) to give notice of any ap<g ref="char:EOLhyphen"/>proach of danger; and upon the ringing of a Bell, all the Workmen and Seamen are to appear under the Offi<g ref="char:EOLhyphen"/>cers of the Yard, to defend it: And there would not be a Man the more by employing the Mariners, for we muſt then turn off juſt an equal number of other Workmen.</p>
+            <p>
+               <pb n="13" facs="tcp:60866:7"/>
+               <!-- PDF PAGE 65 -->
+To give a full account of the Eſtabliſhment of each Yard would be very tedious, therefore I ſhall only ſay in ſhort, that the Conſtitution of the King's Navy, and eſpe<g ref="char:EOLhyphen"/>cially of his Yards, was the nobleſt in the Univerſe, and under that Oeconomy we not only defended our ſelves, but beat all the World, and rode Maſters of the Sea for many Ages; but what Trophies we have raiſed to our Country ſince theſe new Politicks came in faſhion, the Lords of the Admiralty can beſt tell.</p>
+            <p>Indeed if the Gentlemen I oppoſe did not think our Underſtanding of a piece with their own Honeſty, they would not put ſuch a ſcorn and affront upon it as to talk at this rate; With what face can they pretend to uſe them either to work in or defend the King's Yards? Did they ever uſe them to either of thoſe purpoſes in eight years war, when there was much more occaſion than there can be in peace? and what reaſon have we to be<g ref="char:EOLhyphen"/>lieve they ſhould do it now? But any thing muſt be ſaid or done to get them; as <hi>Polybius</hi> ſays of War, the true reaſon is always concealed, and the moſt plauſible one given out.</p>
+            <p>The Eſtabliſhment of Marine Regiments is thought ſo uſeleſs in <hi>Holland,</hi> that this very Winter they have re<g ref="char:EOLhyphen"/>jected them; and it is plain that our Courtiers them<g ref="char:EOLhyphen"/>ſelves, whatever they pretend, think as meanly of them as I do, for they have disbanded the old Regiments that were trained up in eight years War (which if ever they would have been good for any thing might have been in that time) and in their room have call'd a few Land Regi<g ref="char:EOLhyphen"/>ments, with near three times the number of Officers, by the name of Mariners; and as theſe new Seamen have never been at Sea before, ſo they have been kept at Land ever ſince, and quartered up and down the Country againſt
+<pb n="14" facs="tcp:60866:8" rendition="simple:additions"/>
+               <!-- PDF PAGE 66 -->expreſs Acts of Parliament; ſo that the diſpute now is not whether we ſhall deſtroy an Eſtabliſhment already made, but whether we ſhall make a new one in full peace.</p>
+            <p>I muſt confeſs it to be my opinion that ſome Courtiers deſign them only for Land Regiments, and call them by a new name to deceive unthinking Men, who are taken only with appearances. But I doubt not but your Honou<g ref="char:EOLhyphen"/>rable Houſe of Commons, the Guardians of the Peoples Liberties, will let the whole World ſee that they are nei<g ref="char:EOLhyphen"/>ther to be awed by the vain terror of foreign Invaſions, perverted by Places, or deceived by falſe Appearances; that they know how to honour and reverence his Maje<g ref="char:EOLhyphen"/>ſty, and yet puniſh corrupt and wicked Miniſters: In ſhort, that they know the difference between Engliſh Subjects and French Slaves.</p>
+            <epigraph>
+               <q xml:lang="lat">M<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o, Qui vult decipi decipiatur.</q>
+            </epigraph>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Newly publiſh'd,</head>
+            <p>A Confutation of a late Pamphlet intituled, A Let<g ref="char:EOLhyphen"/>ter ballancing the Neceſſity of keeping up a Land-Force in times of Peace, with the Dangers that may fol<g ref="char:EOLhyphen"/>low on it. Price 6 <hi>d.</hi> Sold by <hi>A. Baldwin.</hi>
+            </p>
+            <pb facs="tcp:60866:8"/>
+            <!-- PDF PAGE 66 -->
+         </div>
+      </back>
+   </text>
+</TEI>
